@@ -1,0 +1,6 @@
+{
+  "name": "عداد الكومبو التفاعلي - Interactive Combo Button",
+  "description": "تجربة زر الكومبو التفاعلي المستوحى من البث المباشر وتيك توك مع زيادة العداد التلقائية والمؤثرات الصوتية والحركية ومؤقت الكومبو.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
